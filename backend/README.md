@@ -31,8 +31,8 @@ npm install
 PORT=5000
 CLIENT_URL=http://localhost:3000
 MONGO_URL=mongodb://localhost:27017/talkify
-JWT_SECRET=your_super_secret_jwt_key_change_this_in_production
-OPENAI_API_KEY=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
+JWT_SECRET=your_jwt_secret
+OPENAI_API_KEY=your_api_key
 ```
 
 3. Start the server:
