@@ -23,8 +23,7 @@ MONGO_URL=mongodb://localhost:27017/talkify
 PORT=5000
 CLIENT_URL=http://localhost:8081
 JWT_SECRET=change_this_to_a_random_string_at_least_32_characters_long
-# OpenAI/OpenRouter API Key for translation
-OPENAI_API_KEY=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
+OPENAI_API_KEY=your_api-key
 NODE_ENV=development
 ```
 
